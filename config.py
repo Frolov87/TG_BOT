@@ -1,4 +1,4 @@
-TOKEN = "5966475094:AAFwxIkCVtO6INZbJbjAagNd8QSDL1qQyz0"
+TOKEN = 
 
 #Создаем словарь доступных валют
 keys = {"биткоин": "BTC",
